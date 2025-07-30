@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sina Jafari | Portfolio</title>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2em; line-height: 1.6; }
+    h1, h2 { color: #333; }
+    .project { margin-bottom: 1.5em; }
+  </style>
+</head>
+<body>
+  <h1>Sina Jafari</h1>
+  <p>PhD Candidate | Mechanical Engineering | Adventurer | Researcher in Thermal Systems & Photonics</p>
+
+  <h2>Projects</h2>
+  <div class="project">
+    <h3>Heat Exchanger Design</h3>
+    <p>Designed a high-efficiency exchanger to cool hot, humid air with 20% improved performance. <a href="#">[PDF/Link]</a></p>
+  </div>
+
+  <div class="project">
+    <h3>Optimization Algorithm</h3>
+    <p>Developed a physics-based algorithm to optimize energy harvesting in solar systems (efficiency up to 93.3%). <a href="#">[GitHub]</a></p>
+  </div>
+
+  <h2>Contact</h2>
+  <p>Email: sina@example.com<br>
+     GitHub: <a href="https://github.com/sinajafari">sinajafari</a><br>
+     LinkedIn: <a href="https://linkedin.com/in/sinajafari">linkedin.com/in/sinajafari</a></p>
+</body>
+</html>
